@@ -1,0 +1,23 @@
+.main-content-section {
+  padding: 128px 0px;
+  height: auto;
+  color: #ebecf0;
+  background-color: #191b22 !important;
+}
+.main-content-section .textContent {
+  text-align: center;
+}
+.main-content-section .textContent h1 {
+  width: 45%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.main-content-section .textContent h5 {
+  width: 60%;
+  margin: auto;
+  line-height: 2.4rem;
+}
+.main-content-section .textContent h5 .highLightGrey {
+  background-color: #404756;
+  padding: 5px;
+}/*# sourceMappingURL=interfaces.css.map */

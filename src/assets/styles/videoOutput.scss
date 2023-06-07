@@ -1,0 +1,30 @@
+.videoWrapper {
+  width: 94%;
+  margin: auto;
+  padding: 15px;
+  background-color: #ffffff;
+  //   padding: 10px;
+  border-radius: 15px;
+  color: #23272f;
+  justify-content: flex-start !important;
+  justify-content: center;
+  align-items: center;
+
+  div {
+    padding: 0px;
+  }
+
+  div:nth-child(2) {
+    text-align: left;
+    line-height: 2.5px;
+    padding: 10px;
+
+    h6 {
+      font-weight: bold;
+    }
+
+    span {
+      font-size: 12px;
+    }
+  }
+}

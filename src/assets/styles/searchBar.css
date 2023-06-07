@@ -1,0 +1,33 @@
+form {
+  flex: 1;
+  text-align: center;
+  text-align: center;
+  position: relative;
+}
+form input[type=text] {
+  border-radius: 50px;
+  background-color: #333a45;
+  outline: none;
+  border: none;
+  width: 97%;
+  margin: auto;
+  color: #ebecf0;
+  padding-left: 45px;
+}
+form #srch::-moz-placeholder {
+  color: #959eaf;
+  margin: 200px;
+}
+form #srch::placeholder {
+  color: #959eaf;
+  margin: 200px;
+}
+form button {
+  position: absolute;
+  border: none;
+  border-radius: 50px 0px 0px 50px;
+  left: 15px;
+  outline: none;
+  height: relative;
+  background-color: inherit;
+}/*# sourceMappingURL=searchBar.css.map */

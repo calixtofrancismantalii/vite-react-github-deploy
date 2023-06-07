@@ -1,0 +1,42 @@
+code {
+  display: block;
+  padding: 20px;
+  line-height: 25px;
+
+  .code-line {
+    text-align: left;
+    color: #f7f7f8;
+
+    .syntaxBlue {
+      color: #76b6d6;
+    }
+    .syntaxTeal {
+      color: #86d9ca;
+    }
+    .syntaxOrange {
+      color: #daa75a;
+    }
+  }
+
+  .line-2,
+  .line-11 {
+    text-indent: 20px;
+  }
+
+  .line-3,
+  .line-10 {
+    text-indent: 40px;
+  }
+
+  .line-4,
+  .line-5,
+  .line-8,
+  .line-9 {
+    text-indent: 60px;
+  }
+
+  .line-6,
+  .line-7 {
+    text-indent: 78px;
+  }
+}

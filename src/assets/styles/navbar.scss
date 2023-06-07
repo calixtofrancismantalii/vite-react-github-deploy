@@ -1,0 +1,33 @@
+nav {
+  background-color: #232730;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 22px !important;
+  font-size: 0.9rem;
+  position: sticky;
+  top: 0;
+
+  ul {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+
+    li a {
+      text-decoration: none;
+      color: #ebecf0;
+      display: block;
+      padding: 10px;
+      border-radius: 50px;
+      margin: 0px 10px;
+    }
+
+    li a:hover {
+      background-color: #2e323a;
+      color: #ebecf0;
+      cursor: pointer;
+    }
+  }
+}

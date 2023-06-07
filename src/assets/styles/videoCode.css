@@ -1,0 +1,36 @@
+code {
+  display: block;
+  padding: 20px;
+  line-height: 25px;
+}
+code .code-line {
+  text-align: left;
+  color: #f7f7f8;
+}
+code .code-line .syntaxBlue {
+  color: #76b6d6;
+}
+code .code-line .syntaxTeal {
+  color: #86d9ca;
+}
+code .code-line .syntaxOrange {
+  color: #daa75a;
+}
+code .line-2,
+code .line-11 {
+  text-indent: 20px;
+}
+code .line-3,
+code .line-10 {
+  text-indent: 40px;
+}
+code .line-4,
+code .line-5,
+code .line-8,
+code .line-9 {
+  text-indent: 60px;
+}
+code .line-6,
+code .line-7 {
+  text-indent: 78px;
+}/*# sourceMappingURL=videoCode.css.map */

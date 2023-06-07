@@ -1,0 +1,45 @@
+.ideWindow-wrapper {
+  flex-direction: flex;
+  align-items: center;
+  width: 96%;
+  margin: auto;
+  margin: 45px 0px;
+}
+
+.col-6 {
+  padding: 0px 0px !important;
+}
+
+.ideWindow,
+.ideLive {
+  border-radius: 20px;
+  border: solid 1px #23272f;
+}
+
+.ideWindow {
+  background-color: #16181d;
+
+  label {
+    text-align: left;
+    background-color: #23272f;
+    display: block;
+    padding: 10px 20px;
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+    font-size: 0.8rem;
+    color: #96a0b1;
+  }
+}
+
+.ideLive {
+  background: rgb(66, 65, 87);
+  background: linear-gradient(
+    159deg,
+    rgba(66, 65, 87, 1) 0%,
+    rgba(25, 55, 74, 1) 93%
+  );
+
+  padding: 108px 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}

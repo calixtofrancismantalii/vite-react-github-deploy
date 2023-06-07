@@ -1,0 +1,32 @@
+form {
+  flex: 1;
+  text-align: center;
+  text-align: center;
+  position: relative;
+
+  input[type="text"] {
+    border-radius: 50px;
+    background-color: #333a45;
+    outline: none;
+    border: none;
+    width: 97%;
+    margin: auto;
+    color: #ebecf0;
+    padding-left: 45px;
+  }
+
+  #srch::placeholder {
+    color: #959eaf;
+    margin: 200px;
+  }
+
+  button {
+    position: absolute;
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+    left: 15px;
+    outline: none;
+    height: relative;
+    background-color: inherit;
+  }
+}

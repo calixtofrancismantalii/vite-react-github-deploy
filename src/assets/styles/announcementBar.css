@@ -1,0 +1,10 @@
+#announcementBar-wrapper {
+  color: #ebecf0;
+  background-color: #374251;
+  padding: 7px;
+  font-size: 17px;
+}
+#announcementBar-wrapper center a {
+  text-decoration: none;
+  color: #129fca;
+}/*# sourceMappingURL=announcementBar.css.map */
